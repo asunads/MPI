@@ -31,8 +31,8 @@ void IPH_all_reduce()
 	if(vec[0] != nprocs){
 		cout<<"error"<<endl;
 	}
-
 }
+
 
 int main(int argc,char **argv)
 {
